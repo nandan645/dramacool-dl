@@ -1,0 +1,13 @@
+setup.py
+dramacool/__init__.py
+dramacool/episode_scraper.py
+dramacool/final_link.py
+dramacool/link_scraper.py
+dramacool/main.py
+dramacool/ydl.py
+dramacool.egg-info/PKG-INFO
+dramacool.egg-info/SOURCES.txt
+dramacool.egg-info/dependency_links.txt
+dramacool.egg-info/entry_points.txt
+dramacool.egg-info/requires.txt
+dramacool.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+dramacool = dramacool.main:drama

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dramacool
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: yt-dlp
+Requires-Dist: aria2
