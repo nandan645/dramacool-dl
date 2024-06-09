@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 dramacool/__init__.py
 dramacool/episode_scraper.py

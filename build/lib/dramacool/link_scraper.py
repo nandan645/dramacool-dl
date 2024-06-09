@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def extract_download_link(episode_url):
-    cookies = {'auth': 'cS21kWWy4B8k5KPf2FBD8okFfdk%2B4C8NXTIW1zN%2BSN%2Fy6KvpHi%2FcYR0dM8mUSsXSfb8BJdnKglVwpTbGXQoI8g%3D%3D'}
+    cookies = {'auth': 'RVBXSam9KIobzTBoVRrsHYA1iG1SMGvLhfm79KYphvpJK87dWCBNdZ4nETvG5%2FQ26M7CLlAw241hdMtr7ZfNwg%3D%3D'}
     result = requests.get(episode_url, cookies=cookies)
     htmlcontent = result.content
     site = BeautifulSoup(htmlcontent, 'html.parser')
