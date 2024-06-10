@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: dramacool
-Version: 0.3
+Version: 0.5
 Summary: A simple cli package that lets you download asian webseries/dramas/movies from dramacool website.
 Home-page: https://github.com/nandan645/dramacool-dl
 Author: Abhi Nandan

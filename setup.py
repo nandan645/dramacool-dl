@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name='dramacool',
-    version='0.3',
+    version='0.5',
     author="Abhi Nandan",
     author_email="nandan645@protonmail.com",
     description="A simple cli package that lets you download asian webseries/dramas/movies from dramacool website.",
